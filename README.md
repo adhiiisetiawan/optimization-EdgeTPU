@@ -1,4 +1,4 @@
-# PyCoral API
+# EdgeTPU Optimization
 
 This repository contains an easy-to-use Python API that helps you run inferences
 and perform on-device transfer learning with TensorFlow Lite models on
