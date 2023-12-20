@@ -57,3 +57,6 @@ Or to build just this library, follow these steps:
 
 1.  Run `make wheel` to generate Python library wheel and then `pip3 install
     $(ls dist/*.whl)` to install it
+
+
+**Note**: This repository is based on [Pycoral](https://github.com/google-coral/pycoral) from Google Coral
